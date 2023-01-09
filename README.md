@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm FrontEnd Enthusiast from Indonesia!
+---
+Longer readme upcoming! 😄
 
 <!--
 **narendra087/narendra087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
